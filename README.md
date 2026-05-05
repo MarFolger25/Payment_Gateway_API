@@ -1,6 +1,5 @@
 # Paytrail Payment Gateway Integration (E-commerce)
-# Name: PaytrailGateway.php
-# Description: Secure backend API integration for the Paytrail payment gateway, handling e-commerce financial workflows and cryptography.
+# Secure backend API integration for the Paytrail payment gateway, handling e-commerce financial workflows and cryptography.
 
 ## 📌 Project Overview
 This repository demonstrates a secure backend integration with **Paytrail**, a leading Nordic payment gateway. The service acts as a robust middleware for an e-commerce platform, handling the creation of payment requests, secure payload construction, and cryptographic signature generation. 
